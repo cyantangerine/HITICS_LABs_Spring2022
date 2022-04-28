@@ -1,0 +1,7 @@
+﻿cd ~/Desktop
+
+./edb --run LAB2/bomb ~/Desktop/ans.txt
+
+ef bb bf
+
+od -Ax -tcx1 ans.txt
